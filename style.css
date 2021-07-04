@@ -1,48 +1,21 @@
-h1{
-	color: black;
-	text-align: center;
-	font-family: Georgia, serif;
-	font-size: 40px;
-}
-
-h2{
-	color: black;
-	text-align: center;
-	font-family: Georgia, serif; 
-	font-size: 30px;
-}
-
 body{
-	background-color: #FFFACD;
-	margin-top: 50px;
-	margin-bottom:50px;
-	margin-left: 100px;
-	margin-right: 100px;
+	background-color: #fff7b4;
 	font-family: Helvetica, sans-serif;
 	font-size: 15px;
 }
 
-table, th, td {
-	border: 1px solid black;
-	border-collapse: collapse;
-}
-
-th{
-  padding: 2px;
-  text-align: center;
-  background-color: yellow;
-  color: black;
-}
-
-td{
-	background-color: cornsilk;
-	padding-left: 5px
-}
-
 p{
-	border-left: 3px solid orange;
-	background-color: cornsilk;
 	text-align: justify;
-	padding: 20px 15px 20px 15px
+	padding: 5px 30px 5px 30px
 }
 
+section{
+	padding-top: 3rem;
+}
+
+.banner{
+	background: url('PicsArt_07-04-02.16.09.jpg') no-repeat center center;
+	background-size: cover; 
+	padding-top: 20%;
+	padding-bottom: 20%;
+}
